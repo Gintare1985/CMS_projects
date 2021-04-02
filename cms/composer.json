@@ -1,0 +1,14 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+    }
+}
+
+"autoload": {
+
+	"classmap": [
+
+		"classes"
+	]
+}
+
